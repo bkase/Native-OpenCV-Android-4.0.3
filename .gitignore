@@ -1,3 +1,6 @@
 #comment
 
 *.un~
+bin/
+gen/
+obj/
